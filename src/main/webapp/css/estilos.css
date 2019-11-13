@@ -1,0 +1,278 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 14/10/2019, 02:18:55 PM
+    Author     : camil
+*/
+
+/*
+Inicio del index.jsp
+------------------------------------------------------
+*/
+
+.texto-encabezado{
+    text-align: center;
+    font-size: 70px;
+    color:#000000;
+}
+.fondo-pagina{
+    background-color: #33cc00;
+}
+.formulario-inicial{
+    text-align: center;
+}
+.usuario{
+    font-size: 24px;
+    margin-bottom: 23px;
+    color: #000000;
+    margin-left: -18px;
+    padding-right: -25px;
+    padding-left: 35px;
+}
+.contraseña{
+    font-size: 24px;
+    margin-bottom: 23px;
+    color: #000000;
+    margin-left: -1px;
+    padding-right: 43px;
+    position: relative;
+    left: 16px;
+}
+.contraseña1{
+    margin-top: 23px;
+    margin-bottom: 23px;
+}
+.usuario1{
+    margin-top: 23px;
+    margin-bottom: 23px;
+}
+.imagenes{
+    width: 1226px;
+    height: 525px;
+    text-align: center;
+    margin-bottom: 200px;
+    background-size: cover;
+}
+.imagenes img{
+    width: 1226px;
+    height: 525px;
+    background-size: cover;
+    text-align: center;
+    margin-bottom: 200px;
+}
+.formulario-login{
+    width: 244px;
+    height: 33px;
+    margin-left: 52px;
+    background: #2ff12c;
+    color: #000000;
+}
+.verificacion{    
+    margin-left: -154px;
+    color: #000000;
+}
+.verificar{
+    font-size: 15px;
+}
+.boton-in{
+    margin-bottom: 23px;
+    background: #99ff33;
+    padding: 10px;
+    color:#000000;
+}
+.boton-in:hover{
+    background: #669900;
+    color:#000000;
+}
+.boton-login{
+    margin-left: 23px;
+}
+.formulario{
+    margin-top: 454px;
+}
+.fin{
+    text-align: center;
+    font-size: 23px;
+    background: #669900;
+}
+.inicio{
+    font-size: 23px;
+    background: #669900;
+}
+.encabezados{
+    font-size: 23px;
+    color:#000000;
+    text-align: center;
+}
+/*
+--------------------------------------------
+Fin del index.jsp
+*/
+
+/*
+Inicio del registrar.jsp
+------------------------------------------------------
+*/
+.registro{
+    text-align: center;
+}
+.titulo-registro{
+    font-size: 50px;
+    color:#000000;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.form-nombre{
+    font-size: 23px;
+    color: #000000;
+    margin-bottom: 30px;
+}
+.form-apellidos{
+    font-size: 23px;
+    color: #000000;
+    margin-bottom: 30px;
+}
+.form-correo{
+    font-size: 23px;
+    color: #000000;
+    margin-bottom: 30px;
+}
+.form-usuario{
+    font-size: 23px;
+    color: #000000;
+    margin-bottom: 30px;
+}
+.form-contraseña{
+    font-size: 23px;
+    color: #000000;
+    margin-bottom: 30px;
+}
+.formulario-nombre{
+    width: 200px;
+    height: 23px;
+    margin-left: 88px;
+    background: #2ff12c;
+}
+.formulario-apellido{
+    width: 200px;
+    height: 23px;
+    margin-left: 83px;
+    background: #2ff12c;
+}
+.formulario-contraseña{
+    width: 200px;
+    height: 23px;
+    margin-left: 68px;
+    background: #2ff12c;
+}
+.formulario-correo{
+    width: 200px;
+    height: 23px;
+    margin-left: 106px;
+    background: #2ff12c;
+}
+.formulario-usuario{
+    width: 200px;
+    height: 23px;
+    margin-left: 98px;
+    background: #2ff12c;
+}
+.vale{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+/*
+Fin del registrar.jsp
+------------------------------------------------------
+*/
+
+/*
+Inicio del contenido.jsp
+------------------------------------------------------
+*/
+.titulo-contenido{
+    font-size: 50px;
+    color:#000000;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.contenido-general{
+    text-align: center;
+}
+.comentar-contenido{
+    text-align: center;
+}
+.compartir-contenido{
+    text-align: center;
+}
+.compartir{
+    color:#000000;
+    background: #99ff33;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.comentar{
+    color:#000000;
+    background: #99ff33;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.comentar:hover{
+    background: #669900;
+}
+.compartir:hover{
+    background: #669900;
+}
+/*
+Fin del contenido.jsp
+------------------------------------------------------
+*/
+
+
+/*
+Inicio de contenidocompartir.jsp
+------------------------------------------------------
+*/
+
+.titulo-compartir{
+    font-size: 50px;
+    color: #000000;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+
+/*
+Fin de contenidocompartir.jsp
+------------------------------------------------------
+*/
+
+
+
+/*
+Inicio del contenidocomentar.jsp
+------------------------------------------------------
+*/
+
+.titulo-comentar{
+    font-size: 50px;
+    color: #000000;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+/*
+Fin del contenidocomentar.jsp
+------------------------------------------------------
+*/
